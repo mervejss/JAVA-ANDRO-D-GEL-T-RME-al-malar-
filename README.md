@@ -1,1 +1,1 @@
-# JAVA-ANDRO-D-GEL-T-RME-al-malar-
+JAVA ANDROID programlamada geliştirdiğim projelerimi burada paylaşıyorum. Öğrenme aşamasındayım devamı gelecektir.
